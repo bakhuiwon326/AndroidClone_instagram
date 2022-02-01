@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "935930398732",
+    "project_id": "phwinstagram",
+    "storage_bucket": "phwinstagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935930398732:android:82c5e35ed7ebf7c8c58629",
+        "android_client_info": {
+          "package_name": "com.example.howlstagram_f16"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935930398732-8c16onjmdo30gbrgmkeqa8b5epo9dt8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhTKFB07qSEpFidtMy6t8BQTkGOZbLLgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935930398732-8c16onjmdo30gbrgmkeqa8b5epo9dt8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
